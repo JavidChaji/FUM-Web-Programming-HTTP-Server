@@ -32,9 +32,9 @@ Ferdowsi University of Mashhad Web Programming HTTP Server
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Web-Programming-HTTP-Server.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/stargazers
+[stars-url]: https://github.com/javidchaji/FUM-Web-Programming-HTTP-Server/stargazers
 
 
 <!-- Issues -->

@@ -26,9 +26,9 @@ Ferdowsi University of Mashhad Web Programming HTTP Server
 [contributors-url]: https://github.com/javidchaji/FUM-Web-Programming-HTTP-Server/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-HTTP-Server.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/network/members
+[forks-url]: https://github.com/javidchaji/FUM-Web-Programming-HTTP-Server/network/members
 
 
 <!-- Stars -->

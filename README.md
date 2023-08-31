@@ -44,9 +44,9 @@ Ferdowsi University of Mashhad Web Programming HTTP Server
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Web-Programming-HTTP-Server.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/blob/master/LICENSE
+[license-url]: https://github.com/javidchaji/FUM-Web-Programming-HTTP-Server/blob/master/LICENSE
 
 
 <!-- Linkedin -->

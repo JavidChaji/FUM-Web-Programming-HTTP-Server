@@ -57,7 +57,7 @@ Ferdowsi University of Mashhad Web Programming HTTP Server
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
+* [![Go][Go.dev]][Go-url]
 * [![HTML][HTML.org]][HTML-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -167,6 +167,10 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
+
+
+[Go.dev]: https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=Go&logoColor=white
+[Go-url]: https://go.dev/
 
 
 

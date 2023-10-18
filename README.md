@@ -58,13 +58,7 @@ Ferdowsi University of Mashhad Web Programming HTTP Server
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![HTML][HTML.org]][HTML-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,3 +166,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
+
+
+
+
+[HTML.org]: https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=white
+[HTML-url]: https://html.spec.whatwg.org/
+
+

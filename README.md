@@ -58,7 +58,7 @@ Ferdowsi University of Mashhad Web Programming HTTP Server
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Go][Go-Shield]][Go-url]
-* [![HTML][HTML.org]][HTML-url]
+* [![HTML][HTML-Shield]][HTML-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,7 +174,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-[HTML.org]: https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=white
+[HTML-Shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://html.spec.whatwg.org/
 
 

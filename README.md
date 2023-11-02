@@ -9,7 +9,7 @@
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-url]
+[![LinkedIn][linkedin-shield]][javid-linkedin-URL]
 
 # simple-go-lang-server
 
@@ -58,8 +58,8 @@ Ferdowsi University of Mashhad Web Programming HTTP Server
 Technologies and Tools Utilized in this Project
 
 
-* [![Go][Go-Shield]][Go-url]
-* [![HTML][HTML-Shield]][HTML-url]
+* [![Go][Go-Shield]][Go-URL]
+* [![HTML][HTML-Shield]][HTML-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,16 +166,18 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- Linkedin -->
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-url]: https://linkedin.com/in/javidchaji
+[javid-linkedin-URL]: https://linkedin.com/in/javidchaji
 
 
-
+<!-- Go -->
 [Go-Shield]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
-[Go-url]: https://go.dev/
+
+[Go-URL]: https://go.dev/
 
 
-
+<!-- HTML -->
 [HTML-Shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[HTML-url]: https://html.spec.whatwg.org/
+
+[HTML-URL]: https://html.spec.whatwg.org/
 
 
